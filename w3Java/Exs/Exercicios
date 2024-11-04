@@ -1,0 +1,64 @@
+1. Soma dos Elementos do Array
+Crie um programa que solicite ao usuário 5 números inteiros, armazene-os em um array e, em seguida, exiba a soma desses números.
+
+Desafios adicionais
+
+Exibir também a média dos números inseridos.
+Permitir que o usuário insira uma quantidade indefinida de números e encerre a entrada com um número negativo.
+
+2. Encontrar o Maior e o Menor Valor do Array
+Peça ao usuário para inserir 10 números inteiros e armazene-os em um array. Em seguida, percorra o array para encontrar o maior e o menor valor.
+
+Desafios adicionais
+
+Exibir a posição (índice) em que o maior e o menor valor se encontram.
+Tratar os casos em que todos os números são iguais.
+
+3. Cálculo de Média com Condicional
+Escreva um programa que receba as notas de 5 alunos em uma prova. Em seguida, calcule a média e exiba uma mensagem informando se a média foi Aprovado (média = 6) ou Reprovado (média  6).
+
+Desafios adicionais
+
+Permitir que o usuário insira a quantidade de alunos no início do programa.
+Validar as notas, garantindo que estejam entre 0 e 10.
+
+4. Números Pares e Ímpares em um Array
+Peça ao usuário para inserir 20 números. Guarde esses números em um array e, depois, separe os números pares e ímpares em dois novos arrays. Exiba os números pares e ímpares separadamente.
+
+Desafios adicionais
+
+Exibir também a quantidade de números pares e ímpares.
+Verificar se há números repetidos e exibi-los ao final.
+
+5. Contagem de Elementos Acima e Abaixo da Média
+Escreva um programa que solicite ao usuário 10 números, armazene-os em um array e calcule a média desses números. Depois, exiba quantos elementos estão acima da média e quantos estão abaixo.
+
+Desafios adicionais
+
+Exibir os próprios números que estão acima e abaixo da média.
+Tratar o caso em que todos os números são iguais.
+
+6. Verificação de Palíndromos em Strings
+Crie um programa que solicite ao usuário que insira uma palavra e verifique se essa palavra é um palíndromo (ou seja, se é igual de trás para frente).
+
+Desafios adicionais
+
+Tornar a verificação case-insensitive (ignorar letras maiúsculas e minúsculas).
+Permitir que o usuário insira uma frase e verificar se ela é um palíndromo, ignorando espaços e pontuações.
+
+7. Encontrar Duplicatas em um Array
+Escreva um programa que leia 10 números inteiros e armazene-os em um array. Em seguida, verifique e exiba os números que estão duplicados.
+
+Desafios adicionais
+
+Informar quantas vezes cada número aparece.
+Exibir uma mensagem caso não existam duplicatas.
+
+8. Ordenação Simples
+Escreva um programa que leia 5 números e os ordene em ordem crescente e decrescente, sem usar funções prontas de ordenação.
+
+Desafios adicionais
+
+Ordenar também em ordem decrescente.
+Permitir que o usuário escolha a quantidade de números a serem ordenados.
+Esses exercícios vão ajudar você a praticar o uso de arrays, condicionais e outras estruturas essenciais no desenvolvimento em Java.
